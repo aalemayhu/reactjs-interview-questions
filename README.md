@@ -6575,7 +6575,7 @@ You can download the PDF and Epub version of this repository from the latest run
      }
      ```
 
-     Because the declarative approach separates concerns, this part of it only needs to handle how the UI should look in a sepecific state, and is therefore much simpler to understand.
+     Because the declarative approach separates concerns, this part of it only needs to handle how the UI should look in a specific state, and is therefore much simpler to understand.
      
    **[⬆ Back to Top](#table-of-contents)**
 
